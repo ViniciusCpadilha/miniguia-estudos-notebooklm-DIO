@@ -84,9 +84,11 @@ Minha maior dificuldade foi realmente o encaixe das plavras, e uma maneira mais 
 
 ## Miniguia de Estudo
 ### Resumo:
-Prompt:   Com base nas fontes do caderno, crie um resumo estruturado sobre Inteligência Artificial e Machine Learning, cobrindo: o que é IA, o que é ML, tipos de aprendizado , principais algoritmos e o que é Deep Learning e Redes Neurais. Use linguagem simples para iniciantes.
+#### Prompt:   
+Com base nas fontes do caderno, crie um resumo estruturado sobre Inteligência Artificial e Machine Learning, cobrindo: o que é IA, o que é ML, tipos de aprendizado , principais algoritmos e o que é Deep Learning e Redes Neurais. Use linguagem simples para iniciantes.
 
-Resposta:   1. O que é Inteligência Artificial (IA)
+#### Resposta:   
+1. O que é Inteligência Artificial (IA)
 A Inteligência Artificial é um campo amplo da ciência da computação que busca criar máquinas e sistemas capazes de imitar a inteligência humana
 . O objetivo principal é permitir que computadores realizem tarefas complexas, como entender linguagens faladas ou escritas, reconhecer imagens, analisar dados e tomar decisões de forma semelhante a uma pessoa
 . A IA funciona como um "guarda-chuva" que abrange diversas tecnologias e estratégias para resolver problemas
@@ -118,9 +120,11 @@ Deep Learning (Aprendizado Profundo): É um tipo de aprendizado que utiliza Rede
 . Ele se destaca por conseguir automatizar a identificação de padrões em dados brutos (como pixels de uma imagem ou sons de voz) sem intervenção humana constante, sendo a base de tecnologias como o reconhecimento facial e assistentes virtuais
 
 ###  Glossário
-Prompt:   Com base nas fontes, faça um glossário com os 7 principais termos e objetivos da Inteligência artificial e ML, além de exemplos. Escreva de maneira simples para iniciantes
+### Prompt:   
+Com base nas fontes, faça um glossário com os 7 principais termos e objetivos da Inteligência artificial e ML, além de exemplos. Escreva de maneira simples para iniciantes
 
-Resposta:   1. Inteligência Artificial (IA)
+#### Resposta:   
+1. Inteligência Artificial (IA)
 Definição simples: É o campo que busca criar máquinas e sistemas capazes de imitar funções humanas, como ver, entender a fala e tomar decisões
 Objetivo: Permitir que computadores realizem tarefas complexas de forma inteligente, simulando o raciocínio humano para resolver problemas
 Exemplo: Assistentes virtuais como a Alexa ou o Google Assistente, que conversam com você e executam comandos de voz
